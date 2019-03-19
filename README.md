@@ -13,5 +13,6 @@ console.log(aTernary); // Your price is $2.00 if isMember = false ; *Your price 
 https://github.com/jarauzes/ecmascript8/tree/master/templateLiterals
 <br/>
 <h1>Class & Static Functions</h1>
-
+Classes with Symbols Example: https://github.com/jarauzes/ecmascript8/blob/master/classes.withsymbols.js
+Classes and Static Example: https://github.com/jarauzes/ecmascript8/blob/master/classes.static.js
 
