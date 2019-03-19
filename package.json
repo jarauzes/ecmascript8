@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript8",
+  "version": "1.0.0",
+  "description": "Most Important Features of Ecmascript 8 to Lean for real Time programming",
+  "main": "expression.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarauzes/ecmascript8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarauzes/ecmascript8/issues"
+  },
+  "homepage": "https://github.com/jarauzes/ecmascript8#readme",
+  "dependencies": {
+    "ecma": "^1.0.2",
+    "nodemon": "^1.18.10"
+  }
+}

@@ -1,2 +1,4 @@
 ecma_modules
 ecma_modules/*
+node_modules
+node_modules/*
