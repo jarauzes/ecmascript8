@@ -13,5 +13,28 @@ console.log(aTernary); // Your price is $2.00 if isMember = false ; *Your price 
 https://github.com/jarauzes/ecmascript8/tree/master/templateLiterals
 <br/>
 <h1>Class & Static Functions</h1>
+Classes with Symbols Example: https://github.com/jarauzes/ecmascript8/blob/master/classes.withsymbols.js
+Classes and Static Example: https://github.com/jarauzes/ecmascript8/blob/master/classes.static.js
+<br/>
+<h1>Primitive & Object - Data Types</h1>
+<b>Primitive</b> data types cannot be de-constructed into simpler types, so they're pretty easy to identify
+<code>String, number, boolean, null, undefined, symbol</code>
 
+examples:
+let str = `Popeye`;
+let numb = 3;
+let bool = true;
+let n = null;
+let undef = undefined;
+let s = Symbol(`mySymbol`) 
 
+An <b>object</b> is a collection of properties. These properties are stored in key/value pairs. Properties can reference any type of data, including objects and/or primitive values.
+
+example:
+var obj = {
+  key1: 'value',
+  key2: 'value',
+  key3: true,
+  key4: 32,
+  key5: {}
+}
