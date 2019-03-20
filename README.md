@@ -20,17 +20,17 @@ Classes and Static Example: https://github.com/jarauzes/ecmascript8/blob/master/
 <b>Primitive</b> data types cannot be de-constructed into simpler types, so they're pretty easy to identify
 <code>String, number, boolean, null, undefined, symbol</code>
 
-examples:
-let str = `Popeye`;
-let numb = 3;
-let bool = true;
-let n = null;
-let undef = undefined;
-let s = Symbol(`mySymbol`) 
+examples:<br/>
+let str = `Popeye`;<br/>
+let numb = 3;<br/>
+let bool = true;<br/>
+let n = null;<br/>
+let undef = undefined;<br/>
+let s = Symbol(`mySymbol`) <br/>
 
 An <b>object</b> is a collection of properties. These properties are stored in key/value pairs. Properties can reference any type of data, including objects and/or primitive values.
 
-example:
+example:<br/>
 var obj = {<br/>
   key1: 'value',<br/>
   key2: 'value',<br/>
