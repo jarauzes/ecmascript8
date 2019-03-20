@@ -31,10 +31,14 @@ let s = Symbol(`mySymbol`)
 An <b>object</b> is a collection of properties. These properties are stored in key/value pairs. Properties can reference any type of data, including objects and/or primitive values.
 
 example:
-var obj = {
-  key1: 'value',
-  key2: 'value',
-  key3: true,
-  key4: 32,
-  key5: {}
-}
+var obj = {<br/>
+  key1: 'value',<br/>
+  key2: 'value',<br/>
+  key3: true,<br/>
+  key4: 32,<br/>
+  key5: {}<br/>
+}<br/>
+<br/>
+<h1>Mapping, Setting & Set Constructor</h1>
+https://github.com/jarauzes/ecmascript8/tree/master/map
+
